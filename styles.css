@@ -6,15 +6,33 @@ body {
 }
 h2 {
     text-align: center;
-    text-decoration: underline;
+    
 }
 h3 {
     text-align: center;
 }
-img {
+.image1 {
     height: 500px;
     margin-left: 225px;
     border-radius: 50%;
 }
-
- 
+h1 {
+    text-align: center;
+}
+.image2 {
+    height: 200px;
+    border-radius: 25%;
+    float:left
+}
+.image3 {
+    height:300px;
+    border-left: ;
+    border-radius: 25%;
+    float: right;
+}
+.box {
+    width: 325px;
+    height: 30px;
+    background-color: rgb(0, 255, 221);
+    border-radius: 10%;
+}
