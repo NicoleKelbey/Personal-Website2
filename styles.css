@@ -1,11 +1,12 @@
 body {
     background-color:lavenderblush;
-    color: chocolate;
+    color: rgb(235, 109, 19);
     font-family:Arial, Helvetica, sans-serif;
 
 }
 h2 {
     text-align: center;
+    color: crimson;
     
 }
 h3 {
@@ -33,6 +34,24 @@ h1 {
 .box {
     width: 325px;
     height: 30px;
-    background-color: rgb(0, 255, 221);
+    background-color:rgba(255, 127, 80, 0.26);
     border-radius: 10%;
+}
+.image4 {
+     height: 200px;
+     border-radius: 25%;
+     float:left;
+}
+  .align1 {
+    position: relative;
+  }
+  .image5 {
+    height: 200px;
+    border-radius: 25%;
+    float:left;
+  }
+.image6 {
+    height: 200px;
+    border-radius: 25%;
+    float:right;
 }
